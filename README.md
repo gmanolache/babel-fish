@@ -1,6 +1,7 @@
 # Solutions:
 
 Phase 1 password: harvest
+
 Phase 2 password: airplane
 
 

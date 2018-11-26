@@ -1,3 +1,9 @@
+# Solutions:
+
+Phase 1 password: harvest
+Phase 2 password: airplane
+
+
 # Build a Babel Fish with Machine Learning Language Services
 
 This repository contains necessary resources for AWS re:Invent 2018 workshop AIM313. In this readme you will find detailed instructions for each phase of the workshop.
